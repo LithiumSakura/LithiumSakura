@@ -1,5 +1,5 @@
 ## Hello! Thanks for coming along to my profile.
-I'm slowly becoming an addict to coffee like [my dad](https://github.com/M1XZG).
+I'm slowly becoming a coffee addict like [my dad](https://github.com/M1XZG).
 
 I'm currently studying BSc (Hons) Software Engineering at Bournemouth University, hoping to become a Data Scientist (maybe I'll do a MSc.. haven't decided yet though). My favourite language is probably C# (because it’s the first language I learnt) and I really love SQL (I’ve been told I’m crazy, I’ll wear that badge with honour :)).
 
