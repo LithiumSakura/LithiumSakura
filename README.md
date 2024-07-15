@@ -1,7 +1,7 @@
 ## Hello! Thanks for coming along to my profile.
 I'm slowly becoming a coffee addict like [my dad](https://github.com/M1XZG).
 
-I'm currently studying BSc (Hons) Software Engineering at Bournemouth University, hoping to become a Data Scientist (maybe I'll do a MSc.. haven't decided yet though). My favourite language is probably C# (because it’s the first language I learnt) and I really love SQL (I’ve been told I’m crazy, I’ll wear that badge with honour :)).
+I'm currently studying BSc (Hons) Software Engineering at Bournemouth University, hoping to become a Data Scientist (maybe I'll do a MSc in Data Science). My favourite language is probably C# (because it’s the first language I learnt) and I really love SQL (I’ve been told I’m crazy, I’ll wear that badge with honour :)).
 
 During my studies I've undertaken a variety of different roles (paid and voluntary) to enhance my skills:
 1. Student Ambassador: I've had the opportunity to work with some amazing teams to broaden my capabilities:
