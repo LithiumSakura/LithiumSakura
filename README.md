@@ -13,5 +13,6 @@ I'm attempting to use GitHub more, so expect my University coding to get uploade
 
 Thank you for taking the time to read about me. Please enjoy my uploaded work and stay tuned for new works to come!
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiumDrache&theme=blueberry)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiumDrache&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LithiumDrache&theme=blueberry)
