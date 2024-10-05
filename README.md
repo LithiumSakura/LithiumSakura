@@ -12,3 +12,6 @@ During my studies I've undertaken a variety of different roles (paid and volunta
 I'm attempting to use GitHub more, so expect my University coding to get uploaded here soon.
 
 Thank you for taking the time to read about me. Please enjoy my uploaded work and stay tuned for new works to come!
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiumDrache&theme=blueberry)
