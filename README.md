@@ -1,15 +1,16 @@
-## Hello! Thanks for coming along to my profile. 🐉
-☕ I'm slowly becoming a coffee addict like [my dad](https://github.com/M1XZG).
+## Hello! Thanks for checking out my profile. 🐉
 
-🎓 I'm currently studying BSc (Hons) Software Engineering at Bournemouth University, hoping to become a Data Scientist (maybe I'll do a MSc in Data Science 🤔). My favourite language is probably C# and I really love SQL (I’ve been told I’m crazy, I’ll wear that badge with honour >:)).
+🎓 I'm currently studying BSc (Hons) Software Engineering at Bournemouth University, hoping to become a Data Scientist (maybe I'll do a MSc in Data Science 🤔). My favourite language is probably C# and I really love SQL.
 
 During my studies I've undertaken a variety of different roles (paid and voluntary) to enhance my skills:
-1. 🌸 **Student Ambassador:** I've had the opportunity to work with some amazing teams to broaden my capabilities:
-2. 📢 **Student Representative:** being among other student reps, I’ve had the privilege of attending meetings and representing students’ voices
-3. 💬 **President of the Language Learning Society:** I’m incredibly proud of the committee for not only creating a new society but maintaining the idea of creating a community to help improve people’s confidence in learning languages.
-4. 🔰 **PAL (Peer Assisted Learning) Leader for Technology Foundation:** where I conduct weekly sessions as a senior student with the Foundation year students, to help answer any questions they may have.
+1. 🌸 **Student Ambassador:** where I've had the opportunity to work within different teams for the university, such as: Open days & events, Schools Liaison Partnership, Future Students Enquiry Team, Unibuddy, & Digital Marketing.
+2. 💬 **President of the Language Learning Society:** where I helped in creating a community to help improve people's confidence in language learning.
+3. 🔰 **PAL (Peer Assisted Learning) Leader for Technology Foundation:** where I conduct weekly sessions as a senior student with Foundation year students, to be an extra point of contact as they settle into the university.
+4. 📢 **Student Representative:** where I’ve had the privilege of attending meetings and representing not just my own but fellow students’ voices.
 
-I'm attempting to use GitHub more, so expect my University coding to get uploaded here soon.
+
+☕ I'm slowly becoming a coffee addict like [my dad](https://github.com/M1XZG).
+
 
 Thank you for taking the time to read about me. Please enjoy my uploaded work and stay tuned for new works to come!
 
