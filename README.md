@@ -1,6 +1,6 @@
 ## Hello! Thanks for checking out my profile. 🐉
 
-🎓 I'm currently studying BSc (Hons) Software Engineering at Bournemouth University, hoping to become a Data Scientist (maybe I'll do a MSc in Data Science 🤔). My favourite language is probably C# and I really love SQL.
+🎓 I'm currently studying BSc (Hons) Software Engineering at Bournemouth University, hoping to become a Web Developer (maybe I'll do a MSc in Software Engineering 🤔). My favourite language is probably C# and I really love SQL.
 
 During my studies I've undertaken a variety of different roles (paid and voluntary) to enhance my skills:
 1. 🌸 **Student Ambassador:** where I've had the opportunity to work within different teams for the university, such as: Open days & events, Schools Liaison Partnership, Future Students Enquiry Team, Unibuddy, & Digital Marketing.
