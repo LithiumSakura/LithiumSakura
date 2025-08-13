@@ -4,7 +4,7 @@
 
 During my studies I've undertaken a variety of different roles (paid and voluntary) to enhance my skills:
 1. 🌸 **Student Ambassador:** where I've had the opportunity to work within different teams for the university, such as: Open days & events, Schools Liaison Partnership, Future Students Enquiry Team, Unibuddy, & Digital Marketing.
-2. 💬 **President of the Language Learning Society:** where I helped in creating a community to help improve people's confidence in language learning.
+2. 💬 **President & Class Manager of the Language Learning Society:** where I helped in creating a community to help improve people's confidence in language learning.
 3. 🔰 **PAL (Peer Assisted Learning) Leader for Technology Foundation:** where I conduct weekly sessions as a senior student with Foundation year students, to be an extra point of contact as they settle into the university.
 4. 📢 **Student Representative:** where I’ve had the privilege of attending meetings and representing not just my own but fellow students’ voices.
 
