@@ -1,11 +1,9 @@
-## Hello! Thanks for checking out my profile.
+## Hiya!
 
-🎓 I'm currently studying BSc (Hons) Software Engineering at Bournemouth University, hoping to become a Web Developer (maybe I'll do a Masters to further my education 🤔). My favourite language is probably C# and I really love SQL.
+🎓 I'm currently studying BSc (Hons) Software Engineering at Bournemouth University. I hope to become a Business Analyst, maybe there's a Master's in the future . My favourite language is probably C# and I really love SQL.
 
 
-☕ I'm slowly becoming a coffee addict like [my dad](https://github.com/M1XZG).
-
-Thank you for taking the time to read about me. Please enjoy my uploaded work and stay tuned for new works to come!
+☕ [My really cool dad](https://github.com/M1XZG).
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiumSakura&theme=omni)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiumSakura&theme=omni)
