@@ -7,6 +7,6 @@
 
 Thank you for taking the time to read about me. Please enjoy my uploaded work and stay tuned for new works to come!
 
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiumSakura&theme=radical)
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiumSakura&theme=radical)
-![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LithiumSakura&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LithiumSakura&theme=omni)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LithiumSakura&theme=omni)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LithiumSakura&theme=omni)
